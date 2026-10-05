@@ -155,7 +155,7 @@ AI 부트캠프에서 배운 것을 **매일** 기록하고 있습니다.
 2026.08  ▸ Web 기초 · Python · OOP · REST API · Gemini Function Calling
 2026.09  ▸ LangChain · RAG 평가 · LangGraph · Multi-Agent · HITL
          ▸ 금융 업무 AI Agent 설계 → Agent Evaluation
-2026.10  ▸ Database & SQL · ERD · PostgreSQL          ← now
+2026.10  ▸ Database & SQL · ERD · PostgreSQL  ← now
 ```
 
 </td>
