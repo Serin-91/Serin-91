@@ -84,19 +84,6 @@ AI는 꼭 필요한 곳에만 — 규칙으로 풀리는 건 규칙으로, 맥�
 <tr>
 <td width="50%" valign="top">
 
-### ⚾ MLB Game Analyzer
-**MLB 경기 데이터를 모아 분석하고 예측하는 Streamlit 앱**
-
-- 📊 MLB-StatsAPI 기반 경기·투수 데이터 수집
-- 🌳 **LightGBM + Optuna** 튜닝, **SHAP**으로 예측 근거 해석
-- 🌦️ 구장 정보 · 날씨까지 반영한 경기 뷰어
-- 🧠 Gemini로 생성하는 AI 전문가 분석 리포트
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🐶 PomeDream
 **포메의 꿈속 간식 대소동 — 45초 브라우저 러닝 게임**
 
@@ -109,12 +96,19 @@ AI는 꼭 필요한 곳에만 — 규칙으로 풀리는 건 규칙으로, 맥�
 <a href="https://github.com/Serin-91/PomeDream"><img src="https://img.shields.io/badge/Repository-845ec2?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
+<td width="50%" valign="top">
+
+### 🚧 Jungboo Agent
+**새로운 AI Agent 프로젝트 — Coming soon**
+
+- 🛠️ 지금 열심히 만드는 중
+
+<a href="https://github.com/Serin-91/Jungboo_Agent"><img src="https://img.shields.io/badge/Repository-845ec2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
 </tr>
 </table>
 
-<div align="center">
-<sub>🚧 <b>Jungboo Agent</b> — 새로운 AI Agent 프로젝트를 만들고 있어요. Coming soon.</sub>
-</div>
 
 <br/>
 
@@ -135,7 +129,6 @@ AI는 꼭 필요한 곳에만 — 규칙으로 풀리는 건 규칙으로, 맥�
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
