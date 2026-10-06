@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Bootcamp-Day%20051+-ff6b9d?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Serin-91&label=Profile%20views&color=ff6b9d&style=flat-square"/>
 <img src="https://img.shields.io/badge/Focus-LLM%20·%20AI%20Agent-845ec2?style=flat-square&logo=openai&logoColor=white"/>
 <a href="mailto:elf.serin91@gmail.com"><img src="https://img.shields.io/badge/Mail-elf.serin91@gmail.com-ffc75f?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -148,14 +148,15 @@ AI 부트캠프에서 배운 것을 **매일** 기록하고 있습니다.
 2026.08  ▸ Web 기초 · Python · OOP · REST API · Gemini Function Calling
 2026.09  ▸ LangChain · RAG 평가 · LangGraph · Multi-Agent · HITL
          ▸ 금융 업무 AI Agent 설계 → Agent Evaluation
-2026.10  ▸ Database & SQL · ERD · PostgreSQL  ← now
+2026.10  ▸ Database & SQL · ERD · PostgreSQL
 ```
 
 </td>
 <td width="38%" align="center" valign="middle">
 
 <a href="https://github.com/Serin-91/AI_Agent_TIL">
-<img src="https://img.shields.io/badge/📒_AI_Agent_TIL-Day_051+-ff6b9d?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/Serin-91/AI_Agent_TIL?style=for-the-badge&label=TIL%20last%20update&color=ff6b9d&logo=bookstack&logoColor=white"/><br/>
+<img src="https://img.shields.io/github/commit-activity/m/Serin-91/AI_Agent_TIL?style=for-the-badge&label=commits&color=845ec2&logo=git&logoColor=white"/>
 </a>
 
 <sub>하루하루 쌓는 중 🌱</sub>
